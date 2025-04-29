@@ -1,0 +1,37 @@
+<svg width="400" height="300" viewBox="0 0 400 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="400" height="300" rx="10" fill="#27272A"/> // bg-zinc-800
+
+<!-- Arena Floor -->
+<ellipse cx="200" cy="280" rx="180" ry="40" fill="#3F3F46"/> // bg-zinc-700
+
+<!-- Left NFT Placeholder (e.g., Doge) -->
+<rect x="50" y="120" width="100" height="120" rx="8" fill="#FBBF24" stroke="#A16207" stroke-width="2"/> // bg-amber-400 stroke-amber-700
+<circle cx="100" cy="160" r="20" fill="#FFFFFF"/>
+<circle cx="85" cy="155" r="5" fill="#000000"/>
+<circle cx="115" cy="155" r="5" fill="#000000"/>
+<path d="M80 180 Q100 195 120 180" stroke="#000000" stroke-width="3" fill="none"/>
+<text x="60" y="230" font-family="Arial, sans-serif" font-size="12" fill="#A16207" font-weight="bold">Doge NFT</text>
+
+<!-- Right NFT Placeholder (e.g., Pepe) -->
+<rect x="250" y="120" width="100" height="120" rx="8" fill="#34D399" stroke="#047857" stroke-width="2"/> // bg-emerald-400 stroke-emerald-700
+<ellipse cx="300" cy="160" rx="25" ry="15" fill="#FFFFFF"/>
+<circle cx="290" cy="158" r="6" fill="#000000"/>
+<circle cx="310" cy="158" r="6" fill="#000000"/>
+<path d="M280 185 Q300 175 320 185" stroke="#000000" stroke-width="3" fill="none" stroke-linecap="round"/>
+<text x="260" y="230" font-family="Arial, sans-serif" font-size="12" fill="#047857" font-weight="bold">Pepe NFT</text>
+
+<!-- VS Text -->
+<text x="200" y="180" font-family="Impact, sans-serif" font-size="40" fill="#7CFC00" text-anchor="middle" font-weight="bold" stroke="#000000" stroke-width="1">VS</text>
+
+<!-- Spark/Clash effect -->
+<path d="M160 160 L180 140 L190 160 L210 150 L200 170 L220 180 L195 175 L185 190 L170 170 Z" fill="#FFD700" opacity="0.8"/>
+<path d="M175 150 L185 135 L195 155 L215 145 L205 165 L225 175 L200 170 L190 185 L175 165 Z" fill="#FFA500" opacity="0.6" transform="rotate(15 190 160)"/>
+
+<!-- Health Bars (Optional) -->
+<rect x="50" y="100" width="100" height="10" rx="3" fill="#4ADE80"/> // bg-green-400
+<rect x="250" y="100" width="100" height="10" rx="3" fill="#4ADE80"/> // bg-green-400
+<rect x="50" y="100" width="80" height="10" rx="3" fill="#16A34A"/> // bg-green-600 (Filled portion)
+<rect x="250" y="100" width="90" height="10" rx="3" fill="#16A34A"/> // bg-green-600 (Filled portion)
+
+
+</svg>
