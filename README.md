@@ -4,7 +4,6 @@
 It combines humor, competitive gameplay, and blockchain-powered ownership to create an engaging experience for both gamers and crypto users.
 
 ---
-
 ## 🚀 About the Project
 
 Sui-Overflow is designed as a light, entertaining, and interactive blockchain game where memes are not just content — they are part of the gameplay.
