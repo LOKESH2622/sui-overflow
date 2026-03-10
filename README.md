@@ -59,15 +59,3 @@ These features make Sui a strong foundation for meme-based Web3 games.
 
 ---
 
-## 🛠️ Tech Stack
-
-The project may include technologies such as:
-
-- **Frontend:** React / Next.js / Flutter
-- **Backend:** Node.js / Express
-- **Blockchain:** Sui
-- **Smart Contracts:** Move
-- **Wallet Integration:** Sui Wallet
-- **Database:** MongoDB / Firebase (depending on implementation)
-
-> Update this section based on your actual stack.
