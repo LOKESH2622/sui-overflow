@@ -33,7 +33,6 @@ Possible gameplay elements include:
 The goal is to blend the viral nature of memes with the trust, transparency, and ownership features of blockchain technology.
 
 ---
-
 ## ⛓️ Why Sui?
 
 This project is built around the **Sui blockchain** because of its:
